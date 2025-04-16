@@ -1,4 +1,4 @@
-[! [MasterHead]<h1 align="center">Hi 👋, I'm Rumeysa</h1>
+<h1 align="center">Hi 👋, I'm Rumeysa</h1>
 <h3 align="center">I'm currently strengthening my foundations in software development by building system-level projects in C and C++ at 42 Türkiye. At the same time, I’m pursuing a master’s degree in Industrial Engineering, where I combine my growing interest in artificial intelligence and data science. After taking courses in image processing, I began focusing on a thesis project centered around generative AI, specifically exploring vision-language models and multimodal learning. My goal is to build solutions that think with algorithms and communicate through data.</h3>
 
 - 📫 How to reach me **rumeysaispay@gmail.com**
