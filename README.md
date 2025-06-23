@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rumeysa</h1>
 <h3 align="center">I'm strengthening my software development skills with system-level projects in C and C++ at 42 Türkiye, while pursuing a master's in Industrial Engineering. My thesis focuses on generative AI, vision-language models, and multimodal learning. I'm working to create solutions that think algorithmically and communicate through data.</h3>
 
-- 📫 How to reach me **rumeysaispay@gmail.com**
+- 📫 How to reach me **rumeysispay@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
